@@ -1,0 +1,1 @@
+export const url_base='http://ec2-18-221-181-7.us-east-2.compute.amazonaws.com/'
